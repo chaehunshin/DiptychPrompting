@@ -1,0 +1,8 @@
+opencv-python
+accelerate
+protobuf
+sentencepiece
+diffusers==0.31.0
+huggingface-hub==0.26.2
+transformers==4.46.3
+Pillow==9.5.0
