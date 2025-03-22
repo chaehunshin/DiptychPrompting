@@ -51,6 +51,24 @@ For example,
 ```bash
 python diptych_prompting_inference.py --input_image_path ./assets/bear_plushie.jpg --subject_name "bear plushie" --target_prompt "a bear plushie riding a skateboard"
 ```
+
+## Awesome Concurrent Work
+You can explore the outstanding concurrent work, In-Context LoRA.
+
+[In-Context LoRA](https://github.com/ali-vilab/In-Context-LoRA): IC-LoRA trains a LoRA model to generate image sets with intrinsic relationships, and conditions the image generation process on another image set using the SDEdit inpainting approach.
+
+Additionally, you might enjoy exploring the following community extensions based on In-Context LoRA:
+
+* [Flux Context Window Editing v3.3f (Fill Model) Fix Anything in Any Context](https://civitai.com/models/933018?modelVersionId=1044405)
+
+* [Flux Simple Try On - In-Context LoRA](https://civitai.com/models/950111/flux-simple-try-on-in-context-lora)
+
+* [Flux In Context - visual identity Lora in Comfy](https://civitai.com/articles/8779)
+
+* [In Context lora + Character story generator + flux+ shichen](https://civitai.com/models/951357/in-context-lora-character-story-generator-flux-shichen)
+
+* [In- Context-Lora｜Cute 4koma 可爱四格漫画](https://civitai.com/models/947702/in-context-loracute-4koma)
+
 ## License
 Some of the implementations are based on [FLUX-Controlnet-Inpainting](https://github.com/alimama-creative/FLUX-Controlnet-Inpainting), and thus parts of the code would apply under the license of it.
 
